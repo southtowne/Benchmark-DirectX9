@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "andrew_d3d9HumanBench", "andrew_d3d9HumanBench\andrew_d3d9HumanBench.vcxproj", "{104D05DC-ABAE-4922-89B9-7EEE8EE10610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104D05DC-ABAE-4922-89B9-7EEE8EE10610}.Release|x64.ActiveCfg = Release|x64
+		{104D05DC-ABAE-4922-89B9-7EEE8EE10610}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE27823-0AC5-49F0-B7DD-387A3148DAAA}
+	EndGlobalSection
+EndGlobal
